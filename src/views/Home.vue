@@ -47,7 +47,7 @@ export default {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	align-items:flex-end;
+	align-items: flex-end;
 	height: 55vh;
 	margin: 0 3%;
 }
@@ -56,37 +56,36 @@ export default {
 }
 
 .btn {
-  border-radius: 5px;
-  padding: 15px 25px;
-  font-size: 22px;
-  text-decoration: none;
-  border:none;
-  margin: 20px 0;
-  color: #fff;
-  position: relative;
-  display: inline-block;
-  width: 40%;
+	border-radius: 5px;
+	padding: 15px 25px;
+	font-size: 22px;
+	text-decoration: none;
+	border: none;
+	margin: 20px 0;
+	color: #fff;
+	position: relative;
+	display: inline-block;
+	width: 40%;
 }
 .btn:active {
-  transform: translate(0px, 5px);
-  -webkit-transform: translate(0px, 5px);
-  box-shadow: 0px 1px 0px 0px;
+	transform: translate(0px, 5px);
+	-webkit-transform: translate(0px, 5px);
+	box-shadow: 0px 1px 0px 0px;
 }
 .yellow {
-  background-color: #f1c40f;
-  box-shadow: 0px 5px 0px 0px #D8AB00;
+	background-color: #f1c40f;
+	box-shadow: 0px 5px 0px 0px #d8ab00;
 }
 
 .yellow:hover {
-  background-color: #f5ec05;;
+	background-color: #f5ec05;
 }
 .pink {
-  background-color: #d61fb2;
-  box-shadow: 0px 5px 0px 0px #e96ad0;
+	background-color: #d61fb2;
+	box-shadow: 0px 5px 0px 0px #e96ad0;
 }
 
 .pink:hover {
-  background-color:  #f85cd9;
+	background-color: #f85cd9;
 }
-
 </style>

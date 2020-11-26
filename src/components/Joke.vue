@@ -2,7 +2,7 @@
 	<div>
 		<h1>{{ joke.setup }}</h1>
 		<h2>{{ joke.punchline }}</h2>
-		<button class="btn yellow" @click="$emit('get-joke')">Next</button>	
+		<button class="btn yellow" @click="$emit('get-joke')">Next</button>
 	</div>
 </template>
 
@@ -13,6 +13,4 @@ export default {
 };
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

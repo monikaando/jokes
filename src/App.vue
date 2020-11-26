@@ -1,9 +1,7 @@
 <template>
 	<div id="app">
 		<div id="nav">
-			<h2>
-        <router-link to="/">Home</router-link> | <router-link to="/about">About</router-link>
-      </h2>
+			<h2><router-link to="/">Home</router-link> | <router-link to="/about">About</router-link></h2>
 		</div>
 		<router-view />
 	</div>
@@ -28,7 +26,7 @@ html {
 #nav {
 	text-align: right;
 	padding: 10px;
-  margin-right: 1%;
+	margin-right: 1%;
 }
 
 #nav a {

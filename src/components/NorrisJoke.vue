@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<h1>{{ norrisJoke.joke }}</h1>
-		<button class="btn pink" @click="$emit('get-norris-joke')">Next</button>	
+		<button class="btn pink" @click="$emit('get-norris-joke')">Next</button>
 	</div>
 </template>
 
@@ -12,5 +12,4 @@ export default {
 };
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>
