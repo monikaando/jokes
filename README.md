@@ -30,7 +30,8 @@ General jokes + Chuck Norris jokes
     5) I keep the code is clean and readable.
     6) For image I used Cloudinary.
     7) For styling I used CSS.
-    8) The point of this project was to learn how to connect API in Vue.js
+    8) The point of this project was to learn how to connect API in Vue.js 
+       and deploy a project.
    
 ## Stack
     Vue.Js, Axios, CSS, HTML
