@@ -20,13 +20,13 @@ Jokes App
 General jokes + Chuck Norris jokes
 
 ## General info
-    1) Application is built in frontend with using Vue.Js and Axios for catching one random joke
+    1) Application is built in frontend with using Vue.js and Axios for catching one random joke
        from the API (https://cat-fact.herokuapp.com).
     2) I used two different API:
        https://official-joke-api.appspot.com/jokes/random
        https://api.icndb.com/jokes/random
     3) The application is a single page application.
-    4) I used Vue.Js, Axios, CSS, HTML.
+    4) I used Vue.js, Axios, CSS, HTML.
     5) I keep the code is clean and readable.
     6) For image I used Cloudinary.
     7) For styling I used CSS.
@@ -34,7 +34,7 @@ General jokes + Chuck Norris jokes
        and deploy the project.
    
 ## Stack
-    Vue.Js, Axios, CSS, HTML
+    Vue.js, Axios, CSS, HTML
 
 ## Content    
     General jokes and Chuck Norris jokes from two different APIs on Homepage.
