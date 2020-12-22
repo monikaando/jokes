@@ -41,7 +41,7 @@ General jokes + Chuck Norris jokes
     About page with descriptopn and the link to my portfolio.
 ## UX/UI
     User can:
-    read jokes and by clicing Next button can show the next random joke.
+    read jokes and by clicking Next button can show the next random joke.
 
 ## Online version 
 <a href="https://mswidzinska.github.io/jokes">https://mswidzinska.github.io/jokes</a>
