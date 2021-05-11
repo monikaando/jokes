@@ -21,7 +21,7 @@ General jokes + Chuck Norris jokes
 
 ## General info
     1) Application is built in frontend with using Vue.js and Axios for catching one random joke
-       from the API (https://cat-fact.herokuapp.com).
+       from the API.
     2) I used two different API:
        https://official-joke-api.appspot.com/jokes/random
        https://api.icndb.com/jokes/random
